@@ -1,0 +1,6 @@
+kitchen 1.9 blue coffee_pour coffee-mug
+Call in sick|Go to work
+Random lines
+Some more
+yada yada
+your choice is...?
